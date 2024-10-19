@@ -1,7 +1,7 @@
 ### Namaste 🙏
 
 🔭 I’m currently working on ...
-- [Python-based Git](https://github.com/ajaypremshankar/py-git)
+- In pursuit to learn git better I'm [Writing git commands ground up](https://github.com/ajaypremshankar/py-git)
 
 <!--
 **ajaypremshankar/ajaypremshankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
