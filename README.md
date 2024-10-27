@@ -1,9 +1,13 @@
 ### Namaste 🙏
 
-🔭 I’m currently working on ...
+
+
+## 🔭 I’m currently working on ...
 - [Writing git commands ground up](https://github.com/ajaypremshankar/py-git): In pursuit to learn **GIT Internals** better.
 
-🌱 I’m currently learning ...
+
+
+## 🌱 I’m currently learning ...
 - **Python**:
   - Why?
     -  To improve my ability to write scripts faster.
