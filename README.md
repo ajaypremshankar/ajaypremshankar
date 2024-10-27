@@ -1,7 +1,14 @@
 ### Namaste 🙏
 
 🔭 I’m currently working on ...
-- In pursuit to learn git better I'm [Writing git commands ground up](https://github.com/ajaypremshankar/py-git)
+- [Writing git commands ground up](https://github.com/ajaypremshankar/py-git): In pursuit to learn **GIT Internals** better.
+
+🌱 I’m currently learning ...
+- **Python**:
+  - Why?
+    -  To improve my ability to write scripts faster.
+    -  Over the years, java has become a "language of work" for me. Python feels like fresh breath of air
+    -  Learning python brings back fun of learning a language 
 
 <!--
 **ajaypremshankar/ajaypremshankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
