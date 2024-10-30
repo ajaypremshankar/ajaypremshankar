@@ -13,7 +13,7 @@
   - Why?
     -  To improve my ability to write scripts/POCs faster. Got introduced to Jupyter Notebooks at work which motivated me to learn python better.
     -  Over the years, java has become a "language of work" for me. Python feels like fresh breath of air.
-    -  Learning python brings back fun of learning a language.
+    -  Learning python brings back fun of learning a new language.
 
 <!--
 **ajaypremshankar/ajaypremshankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
