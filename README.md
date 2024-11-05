@@ -2,9 +2,10 @@
 
 
 
-## 🔭 I’m currently working on ...
-- [Writing git commands ground up](https://github.com/ajaypremshankar/py-git): In pursuit to learn **GIT Internals** better.
-- [Writing barebones **HTTP server** ground up](https://github.com/ajaypremshankar/barebones-http-server): In pursuit to learn **how HTTP protocol works**.
+## 🔭 I’m currently writing ...
+- [git commands ground up](https://github.com/ajaypremshankar/py-git): In pursuit to learn **GIT Internals** better.
+- [barebones **HTTP server** ground up](https://github.com/ajaypremshankar/barebones-http-server): In pursuit to learn **how HTTP protocol works**.
+- [simple redis server](https://github.com/ajaypremshankar/barebones-redis): To better understand how redis works internally.
 
 
 
