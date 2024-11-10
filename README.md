@@ -20,8 +20,10 @@
   - While this mostly feels like waste of time. I want to experience what all the fuss is about?
   - Learning with LazyVim, if I get comfortable I would like write a barebones version of LazyVim 🤞🏽🤞🏽
  
-- System Design Concepts (by implementing the concepts) [Nov-2024]
+- System Design Concepts (by implementing basic version) [Nov-2024]
+  - This is to build habit of learning by doing, I struggle to learn tech just by reading.
   - Capturing my learnings [here](https://github.com/ajaypremshankar/building-barebones-systems)
+ 
 <!--
 **ajaypremshankar/ajaypremshankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
