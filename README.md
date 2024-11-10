@@ -11,16 +11,15 @@
 
 ## 🌱 I’m currently learning ... [Oct-2024]
 - **Python**:
-  - Why?
-    -  To improve my ability to write scripts/POCs faster. Got introduced to Jupyter Notebooks at work which motivated me to learn python better.
-    -  Over the years, java has become a "language of work" for me. Python feels like fresh breath of air.
-    -  Learning python brings back fun of learning a new language.
+  -  To improve my ability to write scripts/POCs faster. Got introduced to Jupyter Notebooks at work which motivated me to learn python better.
+  -  Over the years, java has become a "language of work" for me. Python feels like fresh breath of air.
+  -  Learning python brings back fun of learning a new language.
    
 - **Vim Motions** [Nov-2024]
   - While this mostly feels like waste of time. I want to experience what all the fuss is about?
   - Learning with LazyVim, if I get comfortable I would like write a barebones version of LazyVim 🤞🏽🤞🏽
  
-- System Design Concepts (by implementing basic version) [Nov-2024]
+- **System Design Concepts** (by implementing basic version) [Nov-2024]
   - This is to build habit of learning by doing, I struggle to learn tech just by reading.
   - Capturing my learnings [here](https://github.com/ajaypremshankar/building-barebones-systems)
  
