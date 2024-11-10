@@ -22,6 +22,12 @@
 - **System Design Concepts** (by implementing basic version) [Nov-2024]
   - This is to build habit of learning by doing, I struggle to learn tech just by reading.
   - Capturing my learnings [here](https://github.com/ajaypremshankar/building-barebones-systems)
+
+
+<p align="center"> 
+  <i>Profile Visitor count</i><br>
+  <img src="https://profile-counter.glitch.me/ajaypremshankar/count.svg" /> 
+</p>
  
 <!--
 **ajaypremshankar/ajaypremshankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
