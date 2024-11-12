@@ -28,6 +28,13 @@
   <i>Profile Visitor count</i><br>
   <img src="https://profile-counter.glitch.me/ajaypremshankar/count.svg" /> 
 </p>
+
+
+# 📊 stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=ajaypremshankar&theme=dark&include_all_commits=true&hide_rank=true&show_icons=true&hide_title=true&hide=stars">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ajaypremshankar&show_icons=true&theme=dark&locale=en&layout=compact&langs_count=6&card_width=258&hide_title=true&exclude_repo=edu.syr">
+</p>
  
 <!--
 **ajaypremshankar/ajaypremshankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
