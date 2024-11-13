@@ -3,10 +3,8 @@
 
 
 ## 🔭 I’m currently writing ...
-- [git commands ground up](https://github.com/ajaypremshankar/py-git): In pursuit to learn **GIT Internals** better. [Oct-2024]
-- [barebones **HTTP server** ground up](https://github.com/ajaypremshankar/barebones-http-server): In pursuit to learn **how HTTP protocol works**. [Oct-2024]
+- [termo](https://github.com/ajaypremshankar/homebrew-termo): a command-line tool designed to help users record and run macros directly from the terminal
 - [simple redis server](https://github.com/ajaypremshankar/barebones-redis): To better understand how redis works internally [Nov-2024]
-
 
 
 ## 🌱 I’m currently learning ... [Oct-2024]
@@ -22,7 +20,12 @@
 - **System Design Concepts** (by implementing basic version) [Nov-2024]
   - This is to build habit of learning by doing, I struggle to learn tech just by reading.
   - Capturing my learnings [here](https://github.com/ajaypremshankar/building-barebones-systems)
- 
+
+
+
+## ✔️ recently worked on ...
+- [git commands ground up](https://github.com/ajaypremshankar/py-git): In pursuit to learn **GIT Internals** better. [Oct-2024]
+- [barebones **HTTP server** ground up](https://github.com/ajaypremshankar/barebones-http-server): In pursuit to learn **how HTTP protocol works**. [Oct-2024]
 <!--
 **ajaypremshankar/ajaypremshankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
